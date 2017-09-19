@@ -1,0 +1,1 @@
+Git verziókezelõ gyakorlására létrehozott content.
